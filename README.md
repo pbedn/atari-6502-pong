@@ -37,3 +37,9 @@ produces a 4 KiB NTSC Atari 2600 cartridge.
 dasm pong-1972.asm -f3 -opong-1972.bin
 dasm pong.asm -f3 -opong.bin
 ```
+
+## Learn the assembly
+
+The [Pong 1972 tutorial](pong-1972-tutorial/README.md) includes source and
+ROMs for five checkpoints. Checkpoint 04 is the two-player game used for
+**Pong 1972**. Checkpoint 05 adds the menu and computer opponent.
